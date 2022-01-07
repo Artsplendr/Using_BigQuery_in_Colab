@@ -1,5 +1,5 @@
 # Using BigQuery in Colab
-This repository contains notebook with practical examples how to access and start working with BigQuery from Colab.
+This repository contains a notebook, which demonstrates how to access and to start working with BigQuery from Colab, including few practical examples of working with public datasets.
 
 # References
 1.   "Getting Started with Google BigQuery in Colab" Notebook by Google at this [link](https://colab.research.google.com/notebooks/bigquery.ipynb).
